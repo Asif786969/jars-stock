@@ -1,0 +1,654 @@
+{
+  "stocks": [
+    {
+      "Name": "Vardhman Special",
+      "Exchange": "NSE",
+      "Symbol": "VSSL"
+    },
+    {
+      "Name": "Bharat Bijlee",
+      "Exchange": "NSE",
+      "Symbol": "BBL"
+    },
+    {
+      "Name": "Genesys Intl.",
+      "Exchange": "NSE",
+      "Symbol": "GENESYS"
+    },
+    {
+      "Name": "Nucleus Soft.",
+      "Exchange": "NSE",
+      "Symbol": "NUCLEUS"
+    },
+    {
+      "Name": "Subex",
+      "Exchange": "NSE",
+      "Symbol": "SUBEXLTD"
+    },
+    {
+      "Name": "MPS",
+      "Exchange": "NSE",
+      "Symbol": "MPSLTD"
+    },
+    {
+      "Name": "Stylam Industrie",
+      "Exchange": "NSE",
+      "Symbol": "STYLAMIND"
+    },
+    {
+      "Name": "Thirumalai Chem.",
+      "Exchange": "NSE",
+      "Symbol": "TIRUMALCHM"
+    },
+    {
+      "Name": "Honda India",
+      "Exchange": "NSE",
+      "Symbol": "HONDAPOWER"
+    },
+    {
+      "Name": "Grauer & Weil",
+      "Exchange": "NSE",
+      "Symbol": "GRAUWEIL"
+    },
+    {
+      "Name": "Gokaldas Exports",
+      "Exchange": "NSE",
+      "Symbol": "GOKEX"
+    },
+    {
+      "Name": "Kewal Kir.Cloth.",
+      "Exchange": "NSE",
+      "Symbol": "KKCL"
+    },
+    {
+      "Name": "ISMT",
+      "Exchange": "NSE",
+      "Symbol": "ISMTLTD"
+    },
+    {
+      "Name": "TD Power Systems",
+      "Exchange": "NSE",
+      "Symbol": "TDPOWERSYS"
+    },
+    {
+      "Name": "Sunflag Iron",
+      "Exchange": "NSE",
+      "Symbol": "SUNFLAG"
+    },
+    {
+      "Name": "Fineotex Chem",
+      "Exchange": "NSE",
+      "Symbol": "FCL"
+    },
+    {
+      "Name": "Maithan Alloys",
+      "Exchange": "NSE",
+      "Symbol": "MAITHANALL"
+    },
+    {
+      "Name": "Mah. Seamless",
+      "Exchange": "NSE",
+      "Symbol": "MAHSEAMLES"
+    },
+    {
+      "Name": "Polyplex Corpn",
+      "Exchange": "NSE",
+      "Symbol": "POLYPLEX"
+    },
+    {
+      "Name": "Brightcom Group",
+      "Exchange": "NSE",
+      "Symbol": "BCG"
+    },
+    {
+      "Name": "Action Const.Eq.",
+      "Exchange": "NSE",
+      "Symbol": "ACE"
+    },
+    {
+      "Name": "Olectra Greentec",
+      "Exchange": "NSE",
+      "Symbol": "OLECTRA"
+    },
+    {
+      "Name": "ION Exchange",
+      "Exchange": "NSE",
+      "Symbol": "IONEXCHANG"
+    },
+    {
+      "Name": "Garware Tech.",
+      "Exchange": "NSE",
+      "Symbol": "GARFIBRES"
+    },
+    {
+      "Name": "Praj Industries",
+      "Exchange": "NSE",
+      "Symbol": "PRAJIND"
+    },
+    {
+      "Name": "Birlasoft Ltd",
+      "Exchange": "NSE",
+      "Symbol": "BSOFT"
+    },
+    {
+      "Name": "Cera Sanitary.",
+      "Exchange": "NSE",
+      "Symbol": "CERA"
+    },
+    {
+      "Name": "Balrampur Chini",
+      "Exchange": "NSE",
+      "Symbol": "BALRAMCHIN"
+    },
+    {
+      "Name": "Tanla Platforms",
+      "Exchange": "NSE",
+      "Symbol": "TANLA"
+    },
+    {
+      "Name": "Apar Inds.",
+      "Exchange": "NSE",
+      "Symbol": "APARINDS"
+    },
+    {
+      "Name": "G N F C",
+      "Exchange": "NSE",
+      "Symbol": "GNFC"
+    },
+    {
+      "Name": "Hindustan Copper",
+      "Exchange": "NSE",
+      "Symbol": "HINDCOPPER"
+    },
+    {
+      "Name": "Akzo Nobel",
+      "Exchange": "NSE",
+      "Symbol": "AKZOINDIA"
+    },
+    {
+      "Name": "Tejas Networks",
+      "Exchange": "NSE",
+      "Symbol": "TEJASNET"
+    },
+    {
+      "Name": "Finolex Inds.",
+      "Exchange": "NSE",
+      "Symbol": "FINPIPE"
+    },
+    {
+      "Name": "Triveni Turbine",
+      "Exchange": "NSE",
+      "Symbol": "TRITURBINE"
+    },
+    {
+      "Name": "Century Plyboard",
+      "Exchange": "NSE",
+      "Symbol": "CENTURYPLY"
+    },
+    {
+      "Name": "Sonata Software",
+      "Exchange": "NSE",
+      "Symbol": "SONATSOFTW"
+    },
+    {
+      "Name": "Lak. Mach. Works",
+      "Exchange": "NSE",
+      "Symbol": "LAXMIMACH"
+    },
+    {
+      "Name": "Finolex Cables",
+      "Exchange": "NSE",
+      "Symbol": "FINCABLES"
+    },
+    {
+      "Name": "RHI Magnesita",
+      "Exchange": "NSE",
+      "Symbol": "RHIM"
+    },
+    {
+      "Name": "Bajaj Electrical",
+      "Exchange": "NSE",
+      "Symbol": "BAJAJELEC"
+    },
+    {
+      "Name": "Alkyl Amines",
+      "Exchange": "NSE",
+      "Symbol": "ALKYLAMINE"
+    },
+    {
+      "Name": "Sanofi India",
+      "Exchange": "NSE",
+      "Symbol": "SANOFI"
+    },
+    {
+      "Name": "Indian Energy Ex",
+      "Exchange": "NSE",
+      "Symbol": "IEX"
+    },
+    {
+      "Name": "Natl. Aluminium",
+      "Exchange": "NSE",
+      "Symbol": "NATIONALUM"
+    },
+    {
+      "Name": "KEI Industries",
+      "Exchange": "NSE",
+      "Symbol": "KEI"
+    },
+    {
+      "Name": "Ajanta Pharma",
+      "Exchange": "NSE",
+      "Symbol": "AJANTPHARM"
+    },
+    {
+      "Name": "Radico Khaitan",
+      "Exchange": "NSE",
+      "Symbol": "RADICO"
+    },
+    {
+      "Name": "Kajaria Ceramics",
+      "Exchange": "NSE",
+      "Symbol": "KAJARIACER"
+    },
+    {
+      "Name": "Endurance Tech.",
+      "Exchange": "NSE",
+      "Symbol": "ENDURANCE"
+    },
+    {
+      "Name": "Bayer Crop Sci.",
+      "Exchange": "NSE",
+      "Symbol": "BAYERCROP"
+    },
+    {
+      "Name": "Carborundum Uni.",
+      "Exchange": "NSE",
+      "Symbol": "CARBORUNIV"
+    },
+    {
+      "Name": "Vinati Organics",
+      "Exchange": "NSE",
+      "Symbol": "VINATIORGA"
+    },
+    {
+      "Name": "ZF Commercial",
+      "Exchange": "NSE",
+      "Symbol": "ZFCVINDIA"
+    },
+    {
+      "Name": "Grindwell Norton",
+      "Exchange": "NSE",
+      "Symbol": "GRINDWELL"
+    },
+    {
+      "Name": "Ipca Labs.",
+      "Exchange": "NSE",
+      "Symbol": "IPCALAB"
+    },
+    {
+      "Name": "Atul",
+      "Exchange": "NSE",
+      "Symbol": "ATUL"
+    },
+    {
+      "Name": "Sundram Fasten.",
+      "Exchange": "NSE",
+      "Symbol": "SUNDRMFAST"
+    },
+    {
+      "Name": "Timken India",
+      "Exchange": "NSE",
+      "Symbol": "TIMKEN"
+    },
+    {
+      "Name": "Glaxosmi. Pharma",
+      "Exchange": "NSE",
+      "Symbol": "GLAXO"
+    },
+    {
+      "Name": "SKF India",
+      "Exchange": "NSE",
+      "Symbol": "SKFINDIA"
+    },
+    {
+      "Name": "Deepak Nitrite",
+      "Exchange": "NSE",
+      "Symbol": "DEEPAKNTR"
+    },
+    {
+      "Name": "AIA Engineering",
+      "Exchange": "NSE",
+      "Symbol": "AIAENG"
+    },
+    {
+      "Name": "Thermax",
+      "Exchange": "NSE",
+      "Symbol": "THERMAX"
+    },
+    {
+      "Name": "Escorts Kubota",
+      "Exchange": "NSE",
+      "Symbol": "ESCORTS"
+    },
+    {
+      "Name": "3M India",
+      "Exchange": "NSE",
+      "Symbol": "3MINDIA"
+    },
+    {
+      "Name": "Uno Minda",
+      "Exchange": "NSE",
+      "Symbol": "UNOMINDA"
+    },
+    {
+      "Name": "Voltas",
+      "Exchange": "NSE",
+      "Symbol": "VOLTAS"
+    },
+    {
+      "Name": "Indraprastha Gas",
+      "Exchange": "NSE",
+      "Symbol": "IGL"
+    },
+    {
+      "Name": "Honeywell Auto",
+      "Exchange": "NSE",
+      "Symbol": "HONAUT"
+    },
+    {
+      "Name": "Linde India",
+      "Exchange": "NSE",
+      "Symbol": "LINDEINDIA"
+    },
+    {
+      "Name": "NMDC",
+      "Exchange": "NSE",
+      "Symbol": "NMDC"
+    },
+    {
+      "Name": "Supreme Inds.",
+      "Exchange": "NSE",
+      "Symbol": "SUPREMEIND"
+    },
+    {
+      "Name": "ACC",
+      "Exchange": "NSE",
+      "Symbol": "ACC"
+    },
+    {
+      "Name": "MRF",
+      "Exchange": "NSE",
+      "Symbol": "MRF"
+    },
+    {
+      "Name": "Container Corpn.",
+      "Exchange": "NSE",
+      "Symbol": "CONCOR"
+    },
+    {
+      "Name": "Alkem Lab",
+      "Exchange": "NSE",
+      "Symbol": "ALKEM"
+    },
+    {
+      "Name": "L&T Technology",
+      "Exchange": "NSE",
+      "Symbol": "LTTS"
+    },
+    {
+      "Name": "Astral",
+      "Exchange": "NSE",
+      "Symbol": "ASTRAL"
+    },
+    {
+      "Name": "Colgate-Palmoliv",
+      "Exchange": "NSE",
+      "Symbol": "COLPAL"
+    },
+    {
+      "Name": "Abbott India",
+      "Exchange": "NSE",
+      "Symbol": "ABBOTINDIA"
+    },
+    {
+      "Name": "Info Edg.(India)",
+      "Exchange": "NSE",
+      "Symbol": "NAUKRI"
+    },
+    {
+      "Name": "CG Power & Indu.",
+      "Exchange": "NSE",
+      "Symbol": "CGPOWER"
+    },
+    {
+      "Name": "Cummins India",
+      "Exchange": "NSE",
+      "Symbol": "CUMMINSIND"
+    },
+    {
+      "Name": "Schaeffler India",
+      "Exchange": "NSE",
+      "Symbol": "SCHAEFFLER"
+    },
+    {
+      "Name": "P I Industries",
+      "Exchange": "NSE",
+      "Symbol": "PIIND"
+    },
+    {
+      "Name": "Zydus Lifesci.",
+      "Exchange": "NSE",
+      "Symbol": "ZYDUSLIFE"
+    },
+    {
+      "Name": "Tube Investments",
+      "Exchange": "NSE",
+      "Symbol": "TIINDIA"
+    },
+    {
+      "Name": "Tata Consumer",
+      "Exchange": "NSE",
+      "Symbol": "TATACONSUM"
+    },
+    {
+      "Name": "Cipla",
+      "Exchange": "NSE",
+      "Symbol": "CIPLA"
+    },
+    {
+      "Name": "GAIL (India)",
+      "Exchange": "NSE",
+      "Symbol": "GAIL"
+    },
+    {
+      "Name": "Dr Reddy's Labs",
+      "Exchange": "NSE",
+      "Symbol": "DRREDDY"
+    },
+    {
+      "Name": "Divi's Lab.",
+      "Exchange": "NSE",
+      "Symbol": "DIVISLAB"
+    },
+    {
+      "Name": "Havells India",
+      "Exchange": "NSE",
+      "Symbol": "HAVELLS"
+    },
+    {
+      "Name": "Ambuja Cements",
+      "Exchange": "NSE",
+      "Symbol": "AMBUJACEM"
+    },
+    {
+      "Name": "Eicher Motors",
+      "Exchange": "NSE",
+      "Symbol": "EICHERMOT"
+    },
+    {
+      "Name": "Shree Cement",
+      "Exchange": "NSE",
+      "Symbol": "SHREECEM"
+    },
+    {
+      "Name": "Godrej Consumer",
+      "Exchange": "NSE",
+      "Symbol": "GODREJCP"
+    },
+    {
+      "Name": "Tech Mahindra",
+      "Exchange": "NSE",
+      "Symbol": "TECHM"
+    },
+    {
+      "Name": "Bajaj Auto",
+      "Exchange": "NSE",
+      "Symbol": "BAJAJ-AUTO"
+    },
+    {
+      "Name": "Siemens",
+      "Exchange": "NSE",
+      "Symbol": "SIEMENS"
+    },
+    {
+      "Name": "Pidilite Inds.",
+      "Exchange": "NSE",
+      "Symbol": "PIDILITIND"
+    },
+    {
+      "Name": "Nestle India",
+      "Exchange": "NSE",
+      "Symbol": "NESTLEIND"
+    },
+    {
+      "Name": "UltraTech Cem.",
+      "Exchange": "NSE",
+      "Symbol": "ULTRACEMCO"
+    },
+    {
+      "Name": "Avenue Super.",
+      "Exchange": "NSE",
+      "Symbol": "DMART"
+    },
+    {
+      "Name": "Sun Pharma.Inds.",
+      "Exchange": "NSE",
+      "Symbol": "SUNPHARMA"
+    },
+    {
+      "Name": "Maruti Suzuki",
+      "Exchange": "NSE",
+      "Symbol": "MARUTI"
+    },
+    {
+      "Name": "Asian Paints",
+      "Exchange": "NSE",
+      "Symbol": "ASIANPAINT"
+    },
+    {
+      "Name": "HCL Technologies",
+      "Exchange": "NSE",
+      "Symbol": "HCLTECH"
+    },
+    {
+      "Name": "Hind. Unilever",
+      "Exchange": "NSE",
+      "Symbol": "HINDUNILVR"
+    },
+    {
+      "Name": "HBL power systems",
+      "Exchange": "NSE",
+      "Symbol": "HBLPOWER"
+    },
+    {
+      "Name": "Andhra sugar",
+      "Exchange": "NSE",
+      "Symbol": "ANDHRSUGAR"
+    },
+    {
+      "Name": "Dalmia sugar",
+      "Exchange": "NSE",
+      "Symbol": "DALMIASUG"
+    },
+    {
+      "Name": "Apollo Pipes",
+      "Exchange": "NSE",
+      "Symbol": "APOLLOPIPE"
+    },
+    {
+      "Name": "Seamecltd",
+      "Exchange": "NSE",
+      "Symbol": "SEAMECLTD"
+    },
+    {
+      "Name": "Vadilal India",
+      "Exchange": "NSE",
+      "Symbol": "VADILALIND"
+    },
+    {
+      "Name": "Atul Auto",
+      "Exchange": "NSE",
+      "Symbol": "ATULAUTO"
+    },
+    {
+      "Name": "Jamna Auto",
+      "Exchange": "NSE",
+      "Symbol": "JAMNAAUTO"
+    },
+    {
+      "Name": "Ambiko",
+      "Exchange": "NSE",
+      "Symbol": "AMBIKCO"
+    },
+    {
+      "Name": "ABB",
+      "Exchange": "NSE",
+      "Symbol": "ABB"
+    },
+    {
+      "Name": "TTK prestige",
+      "Exchange": "NSE",
+      "Symbol": "TTKPRESTIG"
+    },
+    {
+      "Name": "Emami Ltd",
+      "Exchange": "NSE",
+      "Symbol": "EMAMILTD"
+    },
+    {
+      "Name": "Pasuptac",
+      "Exchange": "NSE",
+      "Symbol": "PASUPTAC"
+    },
+    {
+      "Name": "Kingfa",
+      "Exchange": "NSE",
+      "Symbol": "KINGFA"
+    },
+    {
+      "Name": "Precision wires",
+      "Exchange": "NSE",
+      "Symbol": "PRECWIRE"
+    },
+    {
+      "Name": "Marico",
+      "Exchange": "NSE",
+      "Symbol": "MARICO"
+    },
+    {
+      "Name": "Relaxo footwears",
+      "Exchange": "NSE",
+      "Symbol": "RELAXO"
+    },
+    {
+      "Name": "Page Industries",
+      "Exchange": "NSE",
+      "Symbol": "PAGEIND"
+    },
+    {
+      "Name": "Polycab wires",
+      "Exchange": "NSE",
+      "Symbol": "POLYCAB"
+    }
+  ]
+}
