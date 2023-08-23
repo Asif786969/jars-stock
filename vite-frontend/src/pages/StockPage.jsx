@@ -25,7 +25,7 @@ const StockPage = () => {
         
 
         try {
-            const response = await fetch('http://localhost:9131/symbol', {
+            const response = await fetch('/symbol', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'text/plain',
@@ -47,7 +47,7 @@ const StockPage = () => {
 
     useEffect(() => {
         try {
-            fetch('http://localhost:3000/stocks')
+            fetch('/stocks')
             .then(res => res.json())
             .then(data => {
                 setStocks(data);
@@ -133,7 +133,7 @@ const StockPage = () => {
         const refreshCaller = async () => {
             
             try {
-                const response = await fetch("http://localhost:9131/refresh");
+                const response = await fetch("/refresh");
                 
                 console.log("refresh success");
                 updateStocksData();

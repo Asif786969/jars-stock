@@ -8,7 +8,7 @@ const Alarms=()=>{
 
     const fetchData=async()=>{
         try {
-            const response=await fetch("http://localhost:9041/alarms")
+            const response=await fetch("/alarms")
             if(response.ok){
                 const data=await response.json();
                 console.log(data)
