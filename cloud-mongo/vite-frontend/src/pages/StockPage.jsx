@@ -45,20 +45,18 @@ const StockPage = () => {
         }
     };
 
-    useEffect(() => {
+    useEffect(async () => {
         try {
-            fetch('/stocks')
-            .then(res => res.json())
-            .then(data => {
-                setStocks(data);
-            });
+            const response = await fetch('/stocks');
+            const data = await response.json();
+            setStocks(data);
         } catch (error) {
-            console.log(error+" happened in jsonserver")
+            console.log(error + " happened in jsonserver");
         }
+    
         
-
-        //fetchData("AMBUJACEM.NS");
     }, []);
+    
 
 
         const updateStocksData = async () => {
