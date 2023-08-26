@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+ body{
+    background:white;
+    font-size:62.5%;
+}
+
+.stockName{
+    background:#E8E9EB;
+    margin-top:0.9rem;
+    padding:1rem 1rem 1rem 1rem;
+    font-size: 1rem;
+    
+}
+.stock-heading{
+    font-size: 3rem;
+    margin-left: 35rem;
+} 
