@@ -24,7 +24,6 @@ public class alarmController {
     public List<Stock100> All(){
         return service.All();
     }
-
     
     @PostMapping("/rsi")
     public Double Rsi(@RequestBody String symbol ){
